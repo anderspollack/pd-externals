@@ -1,3 +1,3 @@
 # Pd Externals
 
-Essential additions to Pd-Vanilla
+Contents of ~/Library/Pd containing essential Pd externals
