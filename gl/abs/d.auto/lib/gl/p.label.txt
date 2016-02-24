@@ -1,0 +1,15 @@
+<desc>;
+draw a label to the display window.;
+
+<args>;
+x\, y = x and y coordinates in pixels (float);
+p = name of preset to load (symbol);
+s = size of text (float);
+c = name of color to load (symbol);
+d = degree of z-axis rotation (float);
+r\, g\, b\, a = rgba values (int);
+f = the number of stored font to use (int);
+z = z-order(drawing order) (int);
+l = alignment of text (int);
+v = visible/invisible (int);
+t = text to draw (symbol);

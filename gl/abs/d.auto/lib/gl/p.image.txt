@@ -1,0 +1,15 @@
+<desc>;
+draw an image to the display window.;
+
+<args>;
+x\, y = x and y coordinates in pixels (float);
+p = name of preset to load (symbol);
+w\, h = width and height in pixels (float);
+s = size in pixels (float);
+r\, g\, b\, a = rgba values (int);
+c = name of color to load (symbol);
+d = degree of z-axis rotation (float);
+z = z-order(drawing order) (int);
+l = name of the image file to load (symbol);
+v = visible/invisible (int);
+
